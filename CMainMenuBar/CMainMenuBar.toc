@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: |cffff0303C|rMainMenuBar
+## Notes: Автор: Сарыч - WoWCircle
+## Author: Сарыч
+## Version: 1.5
+CMainMenuBar.xml
